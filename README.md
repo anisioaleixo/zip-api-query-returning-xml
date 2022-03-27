@@ -18,7 +18,4 @@ define('DB_SCHEMA', 'db_ceps');
 Mova os arquivos para dentro do seu servidor PHP 
 exemplo "C:\xampp\htdocs" para quem tem instalado o XAMPP no conputador
 
-Rodando o servidor abra em seu navegador http://localhost/
-
-Para testar o exemplo acesse http://zipcodexml.xp3.biz/
- 
+Rodando o servidor abra em seu navegador http://localhost/ 
